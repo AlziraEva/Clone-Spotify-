@@ -12,6 +12,9 @@ O **Clone-Spotify** é a criação de um clone do Spotify para o desenvolvimento
 - Seção de destaque com mensagem promocional
 - Rodapé com informações da empresa e links sociais
 
+## Layout 
+![spotify](https://github.com/AlziraEva/Clone-Spotify-/assets/138158823/83efb532-b5c3-4043-942d-be4f1222ba88)
+
 ## Como Executar o Projeto
 
 1. Clone este repositório:
