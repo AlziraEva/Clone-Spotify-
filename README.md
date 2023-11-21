@@ -52,4 +52,4 @@ Abra o arquivo index.html no seu navegador da web. Você pode fazer isso navegan
 
 ## Licença
 
-Feito com por Alzira Eva 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alzira-eva-cavalcanti-alves-a62b97135)
+Feito por Alzira Eva 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alzira-eva-cavalcanti-alves-a62b97135)
